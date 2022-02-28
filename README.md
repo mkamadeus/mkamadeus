@@ -8,3 +8,5 @@ C, C++, C#, Unity, Java, JavaFX, Python, Flask, HTML, CSS, SCSS, Bootstrap, Tail
 
 ## ⚡ Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=mkamadeus&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Metrics](/github-metrics.svg)
