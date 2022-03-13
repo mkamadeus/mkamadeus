@@ -6,7 +6,4 @@ I'm Matthew Kevin Amadeus, currently on a learning journey on ITB as an Informat
 ## 🌱 Skills
 C, C++, C#, Unity, Java, JavaFX, Python, Flask, HTML, CSS, SCSS, Bootstrap, TailwindCSS, Javascript, React, React Native, Next.js, Gatsby.js, Vue, Vuetify, Nuxt.js, Typescript, TypeORM, MySQL, PostgreSQL, MongoDB, Redis, Node.js, Express.js, Socket.IO, GCP, AWS, Selenium, Docker, Snowpack, Go, Kubernetes, Terraform, Datadog
 
-## ⚡ Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=mkamadeus&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Metrics](/github-metrics.svg)
